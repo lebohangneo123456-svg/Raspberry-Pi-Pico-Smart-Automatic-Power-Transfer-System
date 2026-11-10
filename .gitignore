@@ -1,0 +1,9 @@
+# Python cache
+__pycache__/
+*.py[cod]
+# Proteus session, temp and backup files
+*.bak
+*.tmp
+*.pdsprj.bak
+.DS_Store
+Thumbs.db
